@@ -927,7 +927,7 @@ app.get('/api/ai/recommend', async (req, res) => {
 // REACT ROUTER FALLBACK
 // ==========================================
 // Any route that doesn't match an API route should serve the React app
-app.get('*', (req, res) => {
+app.use((req, res) => {
     res.sendFile(path.join(__dirname, '../frontend/dist/index.html'));
 });
 
