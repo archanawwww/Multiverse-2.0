@@ -1,0 +1,119 @@
+{
+    "artistName": "Justin Bieber",
+    "genre": "Pop / R&B",
+    "shortBiography": "Justin Bieber is a global superstar.",
+    "heroImage": "hero.jpg",
+    "backgroundImage": "background.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s",
+    "themeColors": {
+        "primary": "#ef4444",
+        "secondary": "#dc2626",
+        "background": "#1a0505",
+        "card": "#2a0a0a",
+        "text": "#ffffff",
+        "accent": "#f87171"
+    },
+    "themeFonts": {
+        "heading": "Playfair Display, serif",
+        "body": "Inter, sans-serif"
+    },
+    "albums": [
+        {
+            "name": "Purpose",
+            "releaseYear": "2015",
+            "cover": "albums/cover_0.jpg",
+            "tracks": [
+                {
+                    "title": "Sorry",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/09CtPGIpYB4BrO8qb1RGsF?utm_source=generator"
+                },
+                {
+                    "title": "Love Yourself",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/50kpGaPAhYJ3sGmk6vplg0?utm_source=generator"
+                },
+                {
+                    "title": "What Do You Mean?",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/4B0JvthVoAAuygILe3n4Bs?utm_source=generator"
+                }
+            ]
+        },
+        {
+            "name": "Justice",
+            "releaseYear": "2021",
+            "cover": "albums/cover_1.jpg",
+            "tracks": [
+                {
+                    "title": "Peaches",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/4iJyoBOLtHqaGxP12qzhQI?utm_source=generator"
+                },
+                {
+                    "title": "Hold On",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/1nahzW3kfMuwReTka28tH5?utm_source=generator"
+                }
+            ]
+        }
+    ],
+    "songs": [
+        {
+            "title": "Baby",
+            "duration": "3:34",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6epn3r7S14KUqlReYr77hA?utm_source=generator",
+            "lyricsLink": "https://genius.com/Justin-bieber-baby-lyrics"
+        },
+        {
+            "title": "Let Me Love You",
+            "duration": "3:26",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/0lYBSQXN6rCTvUZvg9S0lU?utm_source=generator",
+            "lyricsLink": "https://genius.com/Dj-snake-let-me-love-you-lyrics"
+        },
+        {
+            "title": "STAY (with Justin Bieber)",
+            "duration": "2:22",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/567e29TDzLwZwfDuEpGTwo?utm_source=generator",
+            "lyricsLink": "https://genius.com/The-kid-laroi-and-justin-bieber-stay-lyrics"
+        }
+    ],
+    "gallery": [
+        "gallery/4970fc35b54ec4cca7e2e75af8104873.jpg",
+        "gallery/df25425cc549f9a48646681ecf7b1500.jpg",
+        "gallery/c532451eead21e09ce7b79778075da12.jpg",
+        "gallery/105d2c4bd9b743eaea9373282094f574.jpg",
+        "gallery/a4fa9f49574dfada51ebabde5841c01d.webp",
+        "gallery/6be72b32f30d2d23c837bd1f65e83af7.jpg",
+        "gallery/72de7ae8f96743eb0407abed0ddd2acb.webp",
+        "gallery/453208a14f119880fc15fef51f9ff100.webp",
+        "gallery/e24fdfb42eb51f5f08dd5ed95492bb13.webp",
+        "gallery/b785895335998e7e23b98c325b34ef97.jpg",
+        "gallery/2669f3ff4bbff0c404e9921585d64299.jpg",
+        "gallery/df25425cc549f9a48646681ecf7b1500.jpg",
+        "gallery/c072bd9a16f5b01edea5aaffb3c08d38.jpg",
+        "gallery/8807f32871e59ea081fc1625dc12c8f5.jpg",
+        "gallery/d4557e1242aa94c652b4b81f8c85cd08.jpg",
+        "gallery/aa55b9910711bb36e58dde995a11a672.jpg"
+    ],
+    "socialMedia": {
+        "instagram": "https://instagram.com",
+        "twitter": "https://twitter.com",
+        "youtube": "https://youtube.com"
+    },
+    "animations": {
+        "style": "luxury",
+        "hoverEffect": "tilt"
+    },
+    "stats": {
+        "albums": "2",
+        "songs": "50+",
+        "streams": "5B+",
+        "awards": "Multiple"
+    },
+    "about": {
+        "yearsActive": "2015-present",
+        "nationality": "Global",
+        "timeline": [
+            {
+                "year": "2020",
+                "event": "Released a chart-topping album."
+            }
+        ]
+    }
+}

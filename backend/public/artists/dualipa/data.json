@@ -1,0 +1,128 @@
+{
+    "artistName": "Dua Lipa",
+    "genre": "Pop / Disco",
+    "shortBiography": "Dua Lipa is a global superstar.",
+    "heroImage": "hero.jpg",
+    "backgroundImage": "background.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we",
+    "themeColors": {
+        "primary": "#ff1493",
+        "secondary": "#ff69b4",
+        "background": "#1a0b12",
+        "card": "#2a121c",
+        "text": "#ffffff",
+        "accent": "#ffb6c1"
+    },
+    "themeFonts": {
+        "heading": "Playfair Display, serif",
+        "body": "Inter, sans-serif"
+    },
+    "albums": [
+        {
+            "name": "Future Nostalgia",
+            "releaseYear": "2020",
+            "cover": "albums/cover_0.jpg",
+            "tracks": [
+                {
+                    "title": "Don't Start Now",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/3PfIrDoz19wz7qK7tYeu62?utm_source=generator"
+                },
+                {
+                    "title": "Levitating",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/39LLxExYz6ewLAcYrzQQyP?utm_source=generator"
+                },
+                {
+                    "title": "Physical",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/3AzjcOeAmA57TIOr9zF1ZW?utm_source=generator"
+                },
+                {
+                    "title": "Break My Heart",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/017PF4Q3l4DBUiWoXk4OWT?utm_source=generator"
+                }
+            ]
+        },
+        {
+            "name": "Radical Optimism",
+            "releaseYear": "2024",
+            "cover": "albums/cover_1.jpg",
+            "tracks": [
+                {
+                    "title": "Houdini",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6D8y7Bck8h11byRY88Pt2z?utm_source=generator"
+                },
+                {
+                    "title": "Illusion",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5q0EXnBYyeCdXD72FzJxH0?utm_source=generator"
+                },
+                {
+                    "title": "Training Season",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5b5cPscqVEMChvDqscVw26?utm_source=generator"
+                }
+            ]
+        }
+    ],
+    "songs": [
+        {
+            "title": "Levitating",
+            "duration": "3:24",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/39LLxExYz6ewLAcYrzQQyP?utm_source=generator",
+            "lyricsLink": "https://genius.com/Dua-lipa-levitating-lyrics"
+        },
+        {
+            "title": "Levitating (feat. DaBaby)",
+            "duration": "3:23",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5nujrmhLynf4yMoMtj8AQF?utm_source=generator",
+            "lyricsLink": "https://genius.com/Dua-lipa-levitating-remix-lyrics"
+        },
+        {
+            "title": "No Lie",
+            "duration": "3:41",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/48QmG1dfvMuYLxMPt7KSRA?utm_source=generator",
+            "lyricsLink": "https://genius.com/Sean-paul-no-lie-lyrics"
+        }
+    ],
+    "gallery": [
+        "gallery/d91461087b98abae1199af764ad70668.jpg",
+        "gallery/0a6f7d32ecbb2cf9254bd9c7583fe18c.webp",
+        "gallery/c5dc981c3f809177f749ded495107a23.jpg",
+        "gallery/da490d8b57841cdca8627ba89a62762e.jpg",
+        "gallery/69753bcb10e4fcdcc58b7852526fd8c9.webp",
+        "gallery/0d8ae0f880aba1ddf102bc2c34a2779c.jpg",
+        "gallery/b86cf1a6b06d5a100066ec0027c28a85.jpg",
+        "gallery/12bb1a167c92aa1238561124e42377d8.webp",
+        "gallery/e82bfeac04176c9244539932bcfff973.webp",
+        "gallery/1d9f7aba3a6f64e9dd5b54b8fbccf94e.webp",
+        "gallery/28c3ba102a60ae2a2a9f04a3aaac3ab5.jpg",
+        "gallery/3b475ba79430e4a87ed80484b1a3f77e.webp",
+        "gallery/6aa3fa2c752ddd916f5881ec903fd325.webp",
+        "gallery/fa7bcc95c1f6b81e32f36884c8284984.jpg",
+        "gallery/03f66d4ea3bbb9fc4387adb4daf0b6fa.jpg",
+        "gallery/0f967118cd8677eab1468442de3dfcb8.jpg",
+        "gallery/a83793d41c3acd8ba1f365135addc244.jpg"
+    ],
+    "socialMedia": {
+        "instagram": "https://instagram.com",
+        "twitter": "https://twitter.com",
+        "youtube": "https://youtube.com"
+    },
+    "animations": {
+        "style": "luxury",
+        "hoverEffect": "tilt"
+    },
+    "stats": {
+        "albums": "2",
+        "songs": "50+",
+        "streams": "5B+",
+        "awards": "Multiple"
+    },
+    "about": {
+        "yearsActive": "2015-present",
+        "nationality": "Global",
+        "timeline": [
+            {
+                "year": "2020",
+                "event": "Released a chart-topping album."
+            }
+        ]
+    }
+}

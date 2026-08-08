@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Poppins:wght@300;400;600&family=Inter:wght@300;400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-text font-body transition-colors duration-500 ease-in-out;
+    background-color: var(--color-background);
+    color: var(--color-text);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+:root {
+  /* EchoVerse Cinematic Theme */
+  --color-primary: #1DB954; /* Spotify/Emerald Green */
+  --color-secondary: #60A5FA; /* Soft Blue */
+  --color-background: #0A0A0A; /* Deep Black */
+  --color-card: rgba(255, 255, 255, 0.03);
+  --color-text: #ffffff;
+  --color-accent: #A78BFA; /* Lavender */
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+.hide-scroll::-webkit-scrollbar { display: none; }
+.hide-scroll { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Custom Glassmorphism Classes */
+.glass-panel {
+  @apply bg-white/5 backdrop-blur-xl border border-white/10 shadow-[0_8px_32px_0_rgba(0,0,0,0.3)];
+}
+
+.glass-button {
+  @apply bg-white/10 backdrop-blur-md border border-white/20 hover:bg-white/20 transition-all duration-300 shadow-[0_0_15px_rgba(255,255,255,0.1)] hover:shadow-[0_0_25px_rgba(255,255,255,0.2)];
+}
+
+.neon-glow {
+  @apply shadow-[0_0_20px_var(--color-primary)] border border-transparent text-white hover:shadow-[0_0_30px_var(--color-primary)] hover:border-primary transition-all duration-300;
+}
+
+/* Aurora Background */
+.aurora-bg {
+  background: linear-gradient(125deg, #0A0A0A 0%, #0d111a 40%, #1a1625 70%, #0A0A0A 100%);
+  background-size: 400% 400%;
+  animation: auroraFlow 15s ease infinite;
+}
+
+@keyframes auroraFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes funkyGradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-funky {
+  background-size: 200% auto;
+  animation: funkyGradient 3s linear infinite;
+}
+
+/* Faded edges for lyrics scrolling */
+.fade-edges {
+  mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
+  -webkit-mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
+}

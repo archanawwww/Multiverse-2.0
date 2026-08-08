@@ -1,0 +1,159 @@
+{
+    "artistName": "Olivia Rodrigo",
+    "genre": "Pop / Indie Pop",
+    "shortBiography": "Olivia Rodrigo is an American singer-songwriter and actress. She gained recognition with her debut single 'Drivers License', which broke various records and became one of the best-selling songs of 2021, propelling her to mainstream fame.",
+    "heroImage": "hero.jpg",
+    "backgroundImage": "background.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+    "themeColors": {
+        "primary": "#8b5cf6",
+        "secondary": "#db2777",
+        "background": "#1e1b4b",
+        "card": "#2e1065",
+        "text": "#ffffff",
+        "accent": "#fbcfe8"
+    },
+    "themeFonts": {
+        "heading": "Playfair Display, serif",
+        "body": "Poppins, sans-serif"
+    },
+    "albums": [
+        {
+            "name": "SOUR",
+            "releaseYear": "2021",
+            "trackCount": 11,
+            "cover": "albums/sour.jpg",
+            "tracks": [
+                {
+                    "title": "brutal",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6SRsiMl7w1USE4mFqrOhHC?utm_source=generator"
+                },
+                {
+                    "title": "traitor",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5CZ40GBx1sQ9agT82CLQCT?utm_source=generator"
+                },
+                {
+                    "title": "drivers license",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5wANPM4fQCJwkGd4rN57mH?utm_source=generator"
+                },
+                {
+                    "title": "1 step forward, 3 steps back",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/4wcBRRpIfesgcyUtis7PEg?utm_source=generator"
+                },
+                {
+                    "title": "deja vu",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6HU7h9RYOaPRFeh0R3UeAr?utm_source=generator"
+                }
+            ]
+        },
+        {
+            "name": "GUTS",
+            "releaseYear": "2023",
+            "trackCount": 12,
+            "cover": "albums/guts.jpg",
+            "tracks": [
+                {
+                    "title": "all-american bitch",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/34sOdxWu9FljH84UXdRwu1?utm_source=generator"
+                },
+                {
+                    "title": "bad idea right?",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/3IX0yuEVvDbnqUwMBB3ouC?utm_source=generator"
+                },
+                {
+                    "title": "vampire",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/1kuGVB7EU95pJObxwvfwKS?utm_source=generator"
+                },
+                {
+                    "title": "lacy",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6QT6j7rKt7Vk3IuV2AUO9W?utm_source=generator"
+                },
+                {
+                    "title": "get him back!",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/2gyxAWHebV7xPYVxqoi86f?utm_source=generator"
+                }
+            ]
+        }
+    ],
+    "songs": [
+        {
+            "title": "honeybee",
+            "duration": "3:43",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/407LgLkk1uM3wMO6jVRe0a?utm_source=generator",
+            "lyricsLink": "https://genius.com/search?q=Olivia+Rodrigo+honeybee"
+        },
+        {
+            "title": "stupid song",
+            "duration": "3:30",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/4LfCY65LvojKjWEnU7fNN4?utm_source=generator",
+            "lyricsLink": "https://genius.com/search?q=Olivia+Rodrigo+stupid+song"
+        },
+        {
+            "title": "deja vu",
+            "duration": "3:36",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6HU7h9RYOaPRFeh0R3UeAr?utm_source=generator",
+            "lyricsLink": "https://genius.com/Olivia-rodrigo-deja-vu-lyrics"
+        }
+    ],
+    "gallery": [
+        "gallery/5bcca8c3e954baf28e3801489a1c9316.jpg",
+        "gallery/18af7c671bdbbfe77415f12d4e007a7a.jpg",
+        "gallery/e41282bcf17fe3cd950acea7d421bc2b.jpg",
+        "gallery/24db87963ca6bdcff834766b47d97305.webp",
+        "gallery/83694d4da86e36882057829f60041123.jpg",
+        "gallery/817211c57e51def8b673dc17de75186f.jpg",
+        "gallery/7d2b8b7b776e7b9fe97133902347de5c.jpg",
+        "gallery/fbd39269df8530cd68a8e2856d5d5fb9.jpg",
+        "gallery/03bdd58d80b41e571a54d8c393496675-2.jpg",
+        "gallery/0a705d81e64f9539e90d3d9ce84fc0b7.jpg",
+        "gallery/0af2ba3d919a3bcd6554501fc2d167ec.webp",
+        "gallery/198c5680f7e0d357cb65f9d1ac9825ab.webp",
+        "gallery/251035099a09e0d7b2e25b2048ec17ba.jpg",
+        "gallery/2c3ee150605ca3ce4e3e8107e37a948a.jpg",
+        "gallery/34666626c23738a4d80bd8fb3730e7ea.jpg",
+        "gallery/612e200ab65df68d14d27787111a8822.webp",
+        "gallery/64fc0ad256dd4d530c23d7995daf2903.jpg",
+        "gallery/72d2c32904e1d716614f190953244316 10.11.31 AM 10.27.09 AM.jpg",
+        "gallery/92be1ab11c7a9c1027e0cb70eb63ea3c.jpg",
+        "gallery/9fe9f275407518fe1f5f176597f4ada1.webp",
+        "gallery/ba21adb9aa06fc99bb46fe1a23251d6a.jpg",
+        "gallery/bead335a9d2c5b2c077c66e58ddd3196.jpg",
+        "gallery/dd7bb8ac5b7433e6dcf85a7fa910dc06.jpg",
+        "gallery/e17f94d340a30203ddb3549748f7011f.jpg",
+        "gallery/e65e9117f6ffd413637aa07be189b8d5.jpg",
+        "gallery/ef9a0ae368785394f8074612feacc838.jpg",
+        "gallery/efd060354facdbd52a39bf0d5aa6280f.jpg",
+        "gallery/nme-cover-2021-olivia-rodrigo-image05@2160x2700-1068x1335.jpg",
+        "gallery/thumb-1920-1147555.jpg",
+        "gallery/tumblr_b7a5565be1a9990ce89e27fc01cc64a0_bed9c059_2048.jpg"
+    ],
+    "socialMedia": {
+        "instagram": "https://instagram.com/oliviarodrigo",
+        "twitter": "https://twitter.com/oliviarodrigo",
+        "youtube": "https://youtube.com/oliviarodrigo"
+    },
+    "animations": {
+        "style": "soft",
+        "hoverEffect": "glow"
+    },
+    "stats": {
+        "albums": "2",
+        "songs": "23",
+        "streams": "10B+",
+        "awards": "3 Grammys"
+    },
+    "about": {
+        "yearsActive": "2015-present",
+        "nationality": "American",
+        "timeline": [
+            {
+                "year": "2021",
+                "event": "Released 'SOUR', winning 3 Grammy Awards."
+            },
+            {
+                "year": "2023",
+                "event": "Released critically acclaimed sophomore album 'GUTS'."
+            }
+        ]
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "artistName": "Selena Gomez",
+    "genre": "Pop / Dance-Pop",
+    "shortBiography": "Selena Gomez is an American singer, actress, and producer. She rose to fame acting in television and transitioned to a highly successful music career, known for her breathy vocals and emotional, dance-pop tracks.",
+    "heroImage": "hero.jpg",
+    "backgroundImage": "background.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx",
+    "themeColors": {
+        "primary": "#d4af37",
+        "secondary": "#f5f5dc",
+        "background": "#1a1a1a",
+        "card": "#2a2a2a",
+        "text": "#ffffff",
+        "accent": "#ffd700"
+    },
+    "themeFonts": {
+        "heading": "Playfair Display, serif",
+        "body": "Inter, sans-serif"
+    },
+    "albums": [
+        {
+            "name": "Rare",
+            "releaseYear": "2020",
+            "trackCount": 13,
+            "cover": "albums/rare.jpg",
+            "tracks": [
+                {
+                    "title": "Rare",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7HMmFQsKsljwTw8bS7lu19?utm_source=generator"
+                },
+                {
+                    "title": "Dance Again",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5sK3o66yupTNIK6gWgzGjf?utm_source=generator"
+                },
+                {
+                    "title": "Look At Her Now",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7eOkHIcaoUhngxxypM5Ajr?utm_source=generator"
+                },
+                {
+                    "title": "Lose You To Love Me",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/4l0Mvzj72xxOpRrp6h8nHi?utm_source=generator"
+                }
+            ]
+        },
+        {
+            "name": "Revival",
+            "releaseYear": "2015",
+            "trackCount": 11,
+            "cover": "albums/revival.jpg",
+            "tracks": [
+                {
+                    "title": "Revival",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5NB5uPFcHGmwfluq9Sqn3j?utm_source=generator"
+                },
+                {
+                    "title": "Kill Em With Kindness",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7KxhSJOYiqCDclXDBNlFSZ?utm_source=generator"
+                },
+                {
+                    "title": "Hands To Myself",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/3CJvmtWw2bJsudbAC5uCQk?utm_source=generator"
+                },
+                {
+                    "title": "Same Old Love",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6ZANrVuAMp2rpjhfbOuJly?utm_source=generator"
+                }
+            ]
+        },
+        {
+            "name": "Stars Dance",
+            "releaseYear": "2013",
+            "trackCount": 11,
+            "cover": "albums/starsdance.jpg",
+            "tracks": [
+                {
+                    "title": "Birthday",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/345HZXxfL8S8HkVzytD1Pw?utm_source=generator"
+                },
+                {
+                    "title": "Slow Down",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/2OsEJFTfzfjG4oC92cuP2c?utm_source=generator"
+                },
+                {
+                    "title": "Stars Dance",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/2MTMeQZLVI9yiZIXsCbzGi?utm_source=generator"
+                }
+            ]
+        }
+    ],
+    "songs": [
+        {
+            "title": "Wolves",
+            "duration": "3:18",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/0tBbt8CrmxbjRP0pueQkyU?utm_source=generator",
+            "lyricsLink": "https://genius.com/Selena-gomez-and-marshmello-wolves-lyrics"
+        },
+        {
+            "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+            "duration": "3:38",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/06KyNuuMOX1ROXRhj787tj?utm_source=generator",
+            "lyricsLink": "https://genius.com/Charlie-puth-we-dont-talk-anymore-lyrics"
+        },
+        {
+            "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+            "duration": "3:38",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/54PbBpquVfhfrwRwvjSXbI?utm_source=generator",
+            "lyricsLink": "https://genius.com/Charlie-puth-we-dont-talk-anymore-lyrics"
+        }
+    ],
+    "gallery": [
+        "gallery/0c6e2a75d5d346e94dd1e7b0de7d9366.webp",
+        "gallery/0daa5204c4d04085170a9eb61f5f16a8.webp",
+        "gallery/a833897ac3a520a2f5ad2d9b9d2e4b9c.webp",
+        "gallery/82e90e7a24de201d4b41905c3532c9cd.webp",
+        "gallery/1fb23697d32400cf1181c7d5a0732cd7.webp",
+        "gallery/26303cdc6809200011eb2972cfd78aaa.webp",
+        "gallery/36f6be6b0dcc84a7d1c8cf5187d68539.jpg",
+        "gallery/0e23fdb8475d150f2ee24107dd64e32f.webp",
+        "gallery/818f3f0afcdff53afb02b3578b60df15.webp",
+        "gallery/e4e290a1cca87a35b42cc4547a07a6a9.webp",
+        "gallery/f6dc8aa100dfa3394fd5f887fbe81e54.webp",
+        "gallery/a833897ac3a520a2f5ad2d9b9d2e4b9c.webp",
+        "gallery/d9b8c22585d3776b79ede049d9e1c437.jpg",
+        "gallery/e4e290a1cca87a35b42cc4547a07a6a9.webp",
+        "gallery/e9c87a43272b3dd24fcfbccd0e00f558.jpg",
+        "gallery/fd52ee5fc38fd30789b4e674e28d32e0.jpg"
+    ],
+    "socialMedia": {
+        "instagram": "https://instagram.com/selenagomez",
+        "twitter": "https://twitter.com/selenagomez",
+        "youtube": "https://youtube.com/selenagomez"
+    },
+    "animations": {
+        "style": "luxury",
+        "hoverEffect": "tilt"
+    },
+    "stats": {
+        "albums": "3",
+        "songs": "50+",
+        "streams": "15B+",
+        "awards": "1 American Music Award"
+    },
+    "about": {
+        "yearsActive": "2002-present",
+        "nationality": "American",
+        "timeline": [
+            {
+                "year": "2015",
+                "event": "Released 'Revival' showcasing a more mature sound."
+            },
+            {
+                "year": "2020",
+                "event": "Released 'Rare' which reached #1 on the Billboard 200."
+            }
+        ]
+    }
+}

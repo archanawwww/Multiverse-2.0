@@ -1,0 +1,118 @@
+{
+    "artistName": "Bad Bunny",
+    "genre": "Reggaeton / Latin Trap",
+    "shortBiography": "Bad Bunny is a global superstar.",
+    "heroImage": "hero.jpg",
+    "backgroundImage": "background.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+    "themeColors": {
+        "primary": "#ff4500",
+        "secondary": "#ff0000",
+        "background": "#1a0808",
+        "card": "#2a0d0d",
+        "text": "#ffffff",
+        "accent": "#ff6347"
+    },
+    "themeFonts": {
+        "heading": "Playfair Display, serif",
+        "body": "Inter, sans-serif"
+    },
+    "albums": [
+        {
+            "name": "Un Verano Sin Ti",
+            "releaseYear": "2022",
+            "cover": "albums/cover_0.jpg",
+            "tracks": [
+                {
+                    "title": "Moscow Mule",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6Xom58OOXk2SoU711L2IXO?utm_source=generator"
+                },
+                {
+                    "title": "Tití Me Preguntó",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/1IHWl5LamUGEuP4ozKQSXZ?utm_source=generator"
+                },
+                {
+                    "title": "Me Porto Bonito",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6Sq7ltF9Qa7SNFBsV5Cogx?utm_source=generator"
+                }
+            ]
+        },
+        {
+            "name": "YHLQMDLG",
+            "releaseYear": "2020",
+            "cover": "albums/cover_1.jpg",
+            "tracks": [
+                {
+                    "title": "Safaera",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/2DEZmgHKAvm41k4J3R2E9Y?utm_source=generator"
+                },
+                {
+                    "title": "La Difícil",
+                    "spotifyEmbedUrl": "https://open.spotify.com/embed/track/6NfrH0ANGmgBXyxgV2PeXt?utm_source=generator"
+                }
+            ]
+        }
+    ],
+    "songs": [
+        {
+            "title": "DtMF",
+            "duration": "3:57",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/3sK8wGT43QFpWrvNQsrQya?utm_source=generator",
+            "lyricsLink": "https://genius.com/Bad-bunny-dtmf-lyrics"
+        },
+        {
+            "title": "NUEVAYoL",
+            "duration": "3:04",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5TFD2bmFKGhoCRbX61nXY5?utm_source=generator",
+            "lyricsLink": "https://genius.com/Bad-bunny-nuevayol-lyrics"
+        },
+        {
+            "title": "I Like It",
+            "duration": "4:13",
+            "spotifyEmbedUrl": "https://open.spotify.com/embed/track/58q2HKrzhC3ozto2nDdN4z?utm_source=generator",
+            "lyricsLink": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-lyrics"
+        }
+    ],
+    "gallery": [
+        "gallery/1f43c6a9d149c8b79dc246768f9f3cab.webp",
+        "gallery/1d52a44ec143a528066099ce9c0d4279.jpg",
+        "gallery/ebfcb35be167e8979047b5dc2b11a69d.webp",
+        "gallery/2f731263fc5847d2af782e3e768b9dba.jpg",
+        "gallery/3ab61675bb26369bf506b4c3eaff29ac-2.jpg",
+        "gallery/2b34bdf2f7a8db38966d1832800f0b96.jpg",
+        "gallery/e9dbebe030f81bfb1448636882e8c9c3.webp",
+        "gallery/4607af9e7b9d22ce65b8d46dbf301e3c.jpg",
+        "gallery/3ab61675bb26369bf506b4c3eaff29ac.jpg",
+        "gallery/3ab61675bb26369bf506b4c3eaff29ac-2.jpg",
+        "gallery/1508f7d5c030dec70d96ce345ffcf89f.webp",
+        "gallery/1d52a44ec143a528066099ce9c0d4279.jpg",
+        "gallery/187224a742a3b26ff3947efc6cf1b67a.webp",
+        "gallery/4141d162fcf9d61fda83917bc4424380.webp",
+        "gallery/1f43c6a9d149c8b79dc246768f9f3cab.webp"
+    ],
+    "socialMedia": {
+        "instagram": "https://instagram.com",
+        "twitter": "https://twitter.com",
+        "youtube": "https://youtube.com"
+    },
+    "animations": {
+        "style": "luxury",
+        "hoverEffect": "tilt"
+    },
+    "stats": {
+        "albums": "2",
+        "songs": "50+",
+        "streams": "5B+",
+        "awards": "Multiple"
+    },
+    "about": {
+        "yearsActive": "2015-present",
+        "nationality": "Global",
+        "timeline": [
+            {
+                "year": "2020",
+                "event": "Released a chart-topping album."
+            }
+        ]
+    }
+}
