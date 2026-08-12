@@ -275,7 +275,7 @@ const DiscoverGalaxy = () => {
           muted 
           playsInline 
           className="w-full h-full object-cover opacity-50 mix-blend-screen" 
-          src="/src/assets/856528-uhd_2160_2160_24fps.mp4" 
+          src="/assets/856528-uhd_2160_2160_24fps.mp4" 
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#05050a] via-transparent to-transparent pointer-events-none" />
       </div>

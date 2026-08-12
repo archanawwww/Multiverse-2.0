@@ -106,7 +106,7 @@ const AiCompanion = () => {
           muted 
           playsInline 
           className="w-full h-full object-cover opacity-70" 
-          src="/src/assets/12275385-hd_1920_1028_60fps.mp4" 
+          src="/assets/12275385-hd_1920_1028_60fps.mp4" 
         />
         <div className="absolute inset-0 bg-black/40 pointer-events-none" />
       </div>

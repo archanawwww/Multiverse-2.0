@@ -67,7 +67,7 @@ const LibraryPage = () => {
           muted 
           playsInline 
           className="w-full h-full object-cover opacity-60 mix-blend-screen" 
-          src="/src/assets/12286527-hd_1920_1028_60fps.mp4" 
+          src="/assets/12286527-hd_1920_1028_60fps.mp4" 
         />
         <div className="absolute inset-0 bg-gradient-to-br from-[#05050a]/90 via-[#05050a]/70 to-transparent pointer-events-none" />
       </div>

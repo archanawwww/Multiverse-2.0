@@ -143,7 +143,7 @@ const Dashboard = () => {
           muted 
           playsInline 
           className="absolute inset-0 w-full h-full object-cover opacity-60"
-          src="/src/assets/90877-629483574.mp4"
+          src="/assets/90877-629483574.mp4"
         />
         {/* Subtle vignette/overlay to ensure text readability */}
         <div className="absolute inset-0 bg-gradient-to-br from-black/20 via-black/40 to-black/80" />

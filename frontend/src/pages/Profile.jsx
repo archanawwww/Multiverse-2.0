@@ -83,7 +83,7 @@ const Profile = () => {
           muted 
           playsInline 
           className="w-full h-full object-cover opacity-40 mix-blend-screen" 
-          src="/src/assets/14512643_1920_1080_24fps.mp4" 
+          src="/assets/14512643_1920_1080_24fps.mp4" 
         />
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#05050a]/80 to-[#05050a] pointer-events-none" />
       </div>
@@ -92,7 +92,7 @@ const Profile = () => {
       <div className="h-64 md:h-80 w-full relative z-10">
         <div className="absolute inset-0 bg-gradient-to-r from-emerald-500/20 via-blue-500/20 to-purple-500/20" />
         <img 
-          src="/src/assets/be9b28661a704dcca1ee71336f846d6a.jpg" 
+          src="/assets/be9b28661a704dcca1ee71336f846d6a.jpg" 
           alt="Cover" 
           className="w-full h-full object-cover mix-blend-overlay"
         />

@@ -9,7 +9,7 @@ const worlds = [
   {
     id: 'rainy-city',
     name: 'Rainy City',
-    video: '/src/assets/49252-459186552.mp4',
+    video: '/assets/49252-459186552.mp4',
     genres: ['Lo-fi', 'Jazz', 'Chill'],
     color: '#4a6fa5',
     description: 'Neon-lit streets, rain on windows, and the quiet hum of a sleeping city.',
@@ -19,7 +19,7 @@ const worlds = [
   {
     id: 'space',
     name: 'Space',
-    video: '/src/assets/14512643_1920_1080_24fps.mp4',
+    video: '/assets/14512643_1920_1080_24fps.mp4',
     genres: ['Ambient', 'Synthwave'],
     color: '#7c3aed',
     description: 'Float through cosmic nebulas and let the universe speak through sound.',
@@ -29,7 +29,7 @@ const worlds = [
   {
     id: 'sakura',
     name: 'Sakura',
-    video: '/src/assets/15574406_1920_1080_30fps.mp4',
+    video: '/assets/15574406_1920_1080_30fps.mp4',
     genres: ['Piano', 'Japanese Indie'],
     color: '#ec4899',
     description: 'Cherry blossoms fall as gentle melodies paint the twilight sky.',
@@ -39,7 +39,7 @@ const worlds = [
   {
     id: 'mountain',
     name: 'Mountain',
-    video: '/src/assets/12275385-hd_1920_1028_60fps.mp4',
+    video: '/assets/12275385-hd_1920_1028_60fps.mp4',
     genres: ['Acoustic', 'Nature'],
     color: '#d97706',
     description: 'Crisp air, vast peaks, and songs that echo through the valleys.',
@@ -49,7 +49,7 @@ const worlds = [
   {
     id: 'ocean',
     name: 'Ocean',
-    video: '/src/assets/15568067_1920_1080_30fps.mp4',
+    video: '/assets/15568067_1920_1080_30fps.mp4',
     genres: ['Chill Electronic', 'Deep'],
     color: '#0ea5e9',
     description: 'Bioluminescent waves under a canopy of stars. Pure serenity.',
@@ -59,7 +59,7 @@ const worlds = [
   {
     id: 'coffee-house',
     name: 'Coffee House',
-    video: '/src/assets/56209-479197484.mp4',
+    video: '/assets/56209-479197484.mp4',
     genres: ['Jazz', 'Acoustic'],
     color: '#b45309',
     description: 'Warm lighting, the aroma of coffee, and soft jazz filling the room.',

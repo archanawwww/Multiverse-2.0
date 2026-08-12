@@ -11,7 +11,7 @@ const MOODS = [
     id: 'sad',
     label: 'Sad',
     icon: CloudRain,
-    bgVideo: '/src/assets/49252-459186552.mp4',
+    bgVideo: '/assets/49252-459186552.mp4',
     color: 'purple',
     seeds: { seed_genres: 'sad,acoustic,piano', target_valence: 0.2 }
   },
@@ -19,7 +19,7 @@ const MOODS = [
     id: 'happy',
     label: 'Happy',
     icon: Sun,
-    bgVideo: '/src/assets/56209-479197484.mp4',
+    bgVideo: '/assets/56209-479197484.mp4',
     color: 'yellow',
     seeds: { seed_genres: 'happy,pop,summer', target_valence: 0.8, min_energy: 0.6 }
   },
@@ -27,7 +27,7 @@ const MOODS = [
     id: 'chill',
     label: 'Chill',
     icon: Moon,
-    bgVideo: '/src/assets/12275385-hd_1920_1028_60fps.mp4',
+    bgVideo: '/assets/12275385-hd_1920_1028_60fps.mp4',
     color: 'teal',
     seeds: { seed_genres: 'chill,ambient,study', max_energy: 0.5 }
   },
@@ -35,7 +35,7 @@ const MOODS = [
     id: 'romantic',
     label: 'Romantic',
     icon: Heart,
-    bgVideo: '/src/assets/15574406_1920_1080_30fps.mp4',
+    bgVideo: '/assets/15574406_1920_1080_30fps.mp4',
     color: 'pink',
     seeds: { seed_genres: 'romance,r-n-b', target_valence: 0.6 }
   },
@@ -43,7 +43,7 @@ const MOODS = [
     id: 'motivated',
     label: 'Motivated',
     icon: Zap,
-    bgVideo: '/src/assets/856528-uhd_2160_2160_24fps.mp4',
+    bgVideo: '/assets/856528-uhd_2160_2160_24fps.mp4',
     color: 'orange',
     seeds: { seed_genres: 'workout,electronic,bossanova', min_energy: 0.8, target_tempo: 120 }
   },
@@ -51,7 +51,7 @@ const MOODS = [
     id: 'focused',
     label: 'Focused',
     icon: Target,
-    bgVideo: '/src/assets/12286527-hd_1920_1028_60fps.mp4',
+    bgVideo: '/assets/12286527-hd_1920_1028_60fps.mp4',
     color: 'blue',
     seeds: { seed_genres: 'study,classical', min_instrumentalness: 0.8 }
   },
@@ -59,7 +59,7 @@ const MOODS = [
     id: 'dreamy',
     label: 'Dreamy',
     icon: Cloud,
-    bgVideo: '/src/assets/14512643_1920_1080_24fps.mp4',
+    bgVideo: '/assets/14512643_1920_1080_24fps.mp4',
     color: 'indigo',
     seeds: { seed_genres: 'indie,sleep,chill', min_acousticness: 0.4 }
   },
@@ -67,7 +67,7 @@ const MOODS = [
     id: 'nostalgic',
     label: 'Nostalgic',
     icon: Clock,
-    bgVideo: '/src/assets/15568067_1920_1080_30fps.mp4',
+    bgVideo: '/assets/15568067_1920_1080_30fps.mp4',
     color: 'amber',
     seeds: { seed_genres: 'synth-pop,indie-pop', target_valence: 0.4 }
   }
